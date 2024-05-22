@@ -1,0 +1,98 @@
+{
+    "Humboldt": [
+        {
+            "operating 2022": [
+                {
+                    "category_name": "Public Assistance",
+                    "gross": "$128,885,201",
+                    "percent": "28.29%"
+                },
+                {
+                    "category_name": "Public Ways and Facilities, Health, and Sanitation",
+                    "gross": "$121,978,388",
+                    "percent": "26.77%"
+                },
+                {
+                    "category_name": "Public Protection",
+                    "gross": "$103,994,198",
+                    "percent": "22.83%"
+                },
+                {
+                    "category_name": "Internal Service Fund",
+                    "gross": "$50,292,234",
+                    "percent": "11.04%"
+                },
+                {
+                    "category_name": "General Government",
+                    "gross": "$35,455,366",
+                    "percent": "7.78%"
+                },
+                {
+                    "category_name": "Education and Recreation and Cultural Services",
+                    "gross": "$7,264,141",
+                    "percent": "1.59%"
+                },
+                {
+                    "category_name": "Airport Enterprise Fund",
+                    "gross": "$6,472,148",
+                    "percent": "1.42%"
+                },
+                {
+                    "category_name": "Debt Service and Capital Outlay",
+                    "gross": "$1,256,763",
+                    "percent": "0.28%"
+                },
+                {
+                    "category_name": "Solid Waste Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Harbor and Port Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Sewer Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Transit Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Conduit Financing",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Water Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Electric Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Hospital Enterprise Fund Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Other Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Gas Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                }
+            ]
+        }
+    ]
+}

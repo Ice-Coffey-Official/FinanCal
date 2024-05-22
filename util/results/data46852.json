@@ -1,0 +1,290 @@
+{
+    "Mono": [
+        {
+            "operating 2022": [
+                {
+                    "category_name": "Public Protection",
+                    "gross": "$21,027,310",
+                    "percent": "29.46%"
+                },
+                {
+                    "category_name": "Public Ways and Facilities, Health, and Sanitation",
+                    "gross": "$19,873,935",
+                    "percent": "27.85%"
+                },
+                {
+                    "category_name": "General Government",
+                    "gross": "$12,368,511",
+                    "percent": "17.33%"
+                },
+                {
+                    "category_name": "Public Assistance",
+                    "gross": "$6,813,343",
+                    "percent": "9.55%"
+                },
+                {
+                    "category_name": "Internal Service Fund",
+                    "gross": "$5,090,580",
+                    "percent": "7.13%"
+                },
+                {
+                    "category_name": "Solid Waste Enterprise Fund",
+                    "gross": "$2,835,010",
+                    "percent": "3.97%"
+                },
+                {
+                    "category_name": "Debt Service and Capital Outlay",
+                    "gross": "$2,727,292",
+                    "percent": "3.82%"
+                },
+                {
+                    "category_name": "Airport Enterprise Fund",
+                    "gross": "$339,667",
+                    "percent": "0.48%"
+                },
+                {
+                    "category_name": "Education and Recreation and Cultural Services",
+                    "gross": "$248,194",
+                    "percent": "0.35%"
+                },
+                {
+                    "category_name": "Other Enterprise Fund",
+                    "gross": "$41,880",
+                    "percent": "0.06%"
+                },
+                {
+                    "category_name": "Sewer Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Transit Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Conduit Financing",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Water Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Electric Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Hospital Enterprise Fund Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Gas Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Harbor and Port Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                }
+            ]
+        }
+    ],
+    "Sierra": [
+        {
+            "operating 2022": [
+                {
+                    "category_name": "Public Ways and Facilities, Health, and Sanitation",
+                    "gross": "$17,969,337",
+                    "percent": "38.50%"
+                },
+                {
+                    "category_name": "Public Protection",
+                    "gross": "$11,842,832",
+                    "percent": "25.38%"
+                },
+                {
+                    "category_name": "General Government",
+                    "gross": "$7,383,141",
+                    "percent": "15.82%"
+                },
+                {
+                    "category_name": "Public Assistance",
+                    "gross": "$5,305,603",
+                    "percent": "11.37%"
+                },
+                {
+                    "category_name": "Debt Service and Capital Outlay",
+                    "gross": "$1,583,051",
+                    "percent": "3.39%"
+                },
+                {
+                    "category_name": "Solid Waste Enterprise Fund",
+                    "gross": "$1,265,483",
+                    "percent": "2.71%"
+                },
+                {
+                    "category_name": "Education and Recreation and Cultural Services",
+                    "gross": "$572,158",
+                    "percent": "1.23%"
+                },
+                {
+                    "category_name": "Water Enterprise Fund",
+                    "gross": "$541,602",
+                    "percent": "1.16%"
+                },
+                {
+                    "category_name": "Transit Enterprise Fund",
+                    "gross": "$205,126",
+                    "percent": "0.44%"
+                },
+                {
+                    "category_name": "Sewer Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Conduit Financing",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Airport Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Electric Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Hospital Enterprise Fund Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Other Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Gas Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Internal Service Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Harbor and Port Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                }
+            ]
+        }
+    ],
+    "Alpine": [
+        {
+            "operating 2022": [
+                {
+                    "category_name": "Public Protection",
+                    "gross": "$6,556,703",
+                    "percent": "30.05%"
+                },
+                {
+                    "category_name": "General Government",
+                    "gross": "$5,742,910",
+                    "percent": "26.32%"
+                },
+                {
+                    "category_name": "Public Ways and Facilities, Health, and Sanitation",
+                    "gross": "$5,148,382",
+                    "percent": "23.59%"
+                },
+                {
+                    "category_name": "Public Assistance",
+                    "gross": "$2,038,734",
+                    "percent": "9.34%"
+                },
+                {
+                    "category_name": "Debt Service and Capital Outlay",
+                    "gross": "$1,468,282",
+                    "percent": "6.73%"
+                },
+                {
+                    "category_name": "Education and Recreation and Cultural Services",
+                    "gross": "$674,127",
+                    "percent": "3.09%"
+                },
+                {
+                    "category_name": "Transit Enterprise Fund",
+                    "gross": "$193,803",
+                    "percent": "0.89%"
+                },
+                {
+                    "category_name": "Gas Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Internal Service Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Solid Waste Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Harbor and Port Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Sewer Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Conduit Financing",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Water Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Airport Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Electric Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Hospital Enterprise Fund Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Other Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,290 @@
+{
+    "Colusa": [
+        {
+            "operating 2022": [
+                {
+                    "category_name": "Public Protection",
+                    "gross": "$25,046,140",
+                    "percent": "35.18%"
+                },
+                {
+                    "category_name": "Public Ways and Facilities, Health, and Sanitation",
+                    "gross": "$21,415,519",
+                    "percent": "30.08%"
+                },
+                {
+                    "category_name": "Public Assistance",
+                    "gross": "$11,987,565",
+                    "percent": "16.84%"
+                },
+                {
+                    "category_name": "General Government",
+                    "gross": "$5,080,780",
+                    "percent": "7.14%"
+                },
+                {
+                    "category_name": "Solid Waste Enterprise Fund",
+                    "gross": "$2,524,850",
+                    "percent": "3.55%"
+                },
+                {
+                    "category_name": "Education and Recreation and Cultural Services",
+                    "gross": "$1,856,187",
+                    "percent": "2.61%"
+                },
+                {
+                    "category_name": "Debt Service and Capital Outlay",
+                    "gross": "$1,179,198",
+                    "percent": "1.66%"
+                },
+                {
+                    "category_name": "Transit Enterprise Fund",
+                    "gross": "$1,090,864",
+                    "percent": "1.53%"
+                },
+                {
+                    "category_name": "Airport Enterprise Fund",
+                    "gross": "$439,109",
+                    "percent": "0.62%"
+                },
+                {
+                    "category_name": "Internal Service Fund",
+                    "gross": "$335,262",
+                    "percent": "0.47%"
+                },
+                {
+                    "category_name": "Other Enterprise Fund",
+                    "gross": "$236,062",
+                    "percent": "0.33%"
+                },
+                {
+                    "category_name": "Sewer Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Conduit Financing",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Water Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Electric Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Hospital Enterprise Fund Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Gas Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Harbor and Port Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                }
+            ]
+        }
+    ],
+    "Modoc": [
+        {
+            "operating 2022": [
+                {
+                    "category_name": "Public Ways and Facilities, Health, and Sanitation",
+                    "gross": "$11,800,095",
+                    "percent": "33.14%"
+                },
+                {
+                    "category_name": "Public Protection",
+                    "gross": "$7,347,646",
+                    "percent": "20.64%"
+                },
+                {
+                    "category_name": "Public Assistance",
+                    "gross": "$6,793,763",
+                    "percent": "19.08%"
+                },
+                {
+                    "category_name": "General Government",
+                    "gross": "$4,216,905",
+                    "percent": "11.84%"
+                },
+                {
+                    "category_name": "Debt Service and Capital Outlay",
+                    "gross": "$3,667,641",
+                    "percent": "10.30%"
+                },
+                {
+                    "category_name": "Solid Waste Enterprise Fund",
+                    "gross": "$1,243,131",
+                    "percent": "3.49%"
+                },
+                {
+                    "category_name": "Education and Recreation and Cultural Services",
+                    "gross": "$394,233",
+                    "percent": "1.11%"
+                },
+                {
+                    "category_name": "Other Enterprise Fund",
+                    "gross": "$139,089",
+                    "percent": "0.39%"
+                },
+                {
+                    "category_name": "Internal Service Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Harbor and Port Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Sewer Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Transit Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Conduit Financing",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Water Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Airport Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Electric Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Hospital Enterprise Fund Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Gas Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                }
+            ]
+        }
+    ],
+    "Mendocino": [
+        {
+            "operating 2022": [
+                {
+                    "category_name": "Hospital Enterprise Fund Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Public Protection",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Transit Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Conduit Financing",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Water Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Debt Service and Capital Outlay",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Airport Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Public Ways and Facilities, Health, and Sanitation",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Electric Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Sewer Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Other Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Gas Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Internal Service Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Education and Recreation and Cultural Services",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Public Assistance",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Solid Waste Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Harbor and Port Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "General Government",
+                    "gross": "$0",
+                    "percent": "0%"
+                }
+            ]
+        }
+    ]
+}

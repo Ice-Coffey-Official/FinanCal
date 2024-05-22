@@ -1,0 +1,98 @@
+{
+    "El+Dorado": [
+        {
+            "operating 2022": [
+                {
+                    "category_name": "Public Protection",
+                    "gross": "$142,109,917",
+                    "percent": "31.50%"
+                },
+                {
+                    "category_name": "Public Ways and Facilities, Health, and Sanitation",
+                    "gross": "$107,301,012",
+                    "percent": "23.79%"
+                },
+                {
+                    "category_name": "Public Assistance",
+                    "gross": "$74,430,402",
+                    "percent": "16.50%"
+                },
+                {
+                    "category_name": "General Government",
+                    "gross": "$54,480,675",
+                    "percent": "12.08%"
+                },
+                {
+                    "category_name": "Internal Service Fund",
+                    "gross": "$41,639,158",
+                    "percent": "9.23%"
+                },
+                {
+                    "category_name": "Debt Service and Capital Outlay",
+                    "gross": "$24,329,819",
+                    "percent": "5.39%"
+                },
+                {
+                    "category_name": "Education and Recreation and Cultural Services",
+                    "gross": "$5,595,483",
+                    "percent": "1.24%"
+                },
+                {
+                    "category_name": "Airport Enterprise Fund",
+                    "gross": "$1,240,103",
+                    "percent": "0.27%"
+                },
+                {
+                    "category_name": "Solid Waste Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Harbor and Port Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Sewer Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Transit Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Conduit Financing",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Water Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Electric Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Hospital Enterprise Fund Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Other Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                },
+                {
+                    "category_name": "Gas Enterprise Fund",
+                    "gross": "$0",
+                    "percent": "0%"
+                }
+            ]
+        }
+    ]
+}
